@@ -1,63 +1,63 @@
 [
-    {
-      "id": 1,
-      "name": "Phoenix",
-      "image": "https://i.pinimg.com/originals/30/9d/df/309ddf5999bb72b8c08058199877917b.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Werewolf",
-      "image": "https://mysticinvestigations.com/paranormal/wp-content/uploads/2016/09/Werewolf.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Loch Ness Monster",
-      "image": "https://chumley.barstoolsports.com/wp-content/uploads/2019/06/12/loch-ness-monster-2.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Sphinx",
-      "image": "https://natgeo.imgix.net/factsheets/thumbnails/AncientSecrets_TheSphinx_sphinx.JPG?auto=compress,format&w=1024&h=560&fit=crop"
-    },
-    {
-      "id": 5,
-      "name": "Imp",
-      "image": "http://2.bp.blogspot.com/-QqyLERxNprs/URfrNp1V54I/AAAAAAAAAsA/0rbTGtX2byg/w1200-h630-p-k-no-nu/DevilImp.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Manticore",
-      "image": "https://mythology.net/wp-content/uploads/2018/07/Manticore-1.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Ancient Vampire",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/6f/80/41/6f80418e2dbde5b19d6e0a355621a4e0.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Ushi Oni",
-      "image": "https://66.media.tumblr.com/3c0ed0d0b9d39b0f1e5dd859152d0639/tumblr_inline_ok627hsryA1rkapbx_1280.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Gargoyle",
-      "image": "https://moviewriternyu.files.wordpress.com/2013/05/gargoyle-night.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Leviathan",
-      "image": "https://vancerainscom.files.wordpress.com/2018/03/leviathan_.jpg?w=1381&h=578&crop=1"
-    },
-    {
-      "id": 11,
-      "name": "Pinhead",
-      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/04/HORROR-MONSTERS-Pinhead.jpg?q=50&fit=crop&w=737&h=387&dpr=1.5"
-    },
-    {
-      "id": 12,
-      "name": "Xenomorph",
-      "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Xenomorph-in-Alien-Covenant.jpg?q=50&fit=crop&w=737&h=376&dpr=1.5"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Phoenix",
+    "image": "https://i.pinimg.com/originals/30/9d/df/309ddf5999bb72b8c08058199877917b.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Werewolf",
+    "image": "https://mysticinvestigations.com/paranormal/wp-content/uploads/2016/09/Werewolf.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Loch Ness Monster",
+    "image": "https://chumley.barstoolsports.com/wp-content/uploads/2019/06/12/loch-ness-monster-2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sphinx",
+    "image": "https://natgeo.imgix.net/factsheets/thumbnails/AncientSecrets_TheSphinx_sphinx.JPG?auto=compress,format&w=1024&h=560&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Imp",
+    "image": "http://2.bp.blogspot.com/-QqyLERxNprs/URfrNp1V54I/AAAAAAAAAsA/0rbTGtX2byg/w1200-h630-p-k-no-nu/DevilImp.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Manticore",
+    "image": "https://mythology.net/wp-content/uploads/2018/07/Manticore-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ancient Vampire",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/6f/80/41/6f80418e2dbde5b19d6e0a355621a4e0.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ushi Oni",
+    "image": "https://66.media.tumblr.com/3c0ed0d0b9d39b0f1e5dd859152d0639/tumblr_inline_ok627hsryA1rkapbx_1280.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gargoyle",
+    "image": "https://moviewriternyu.files.wordpress.com/2013/05/gargoyle-night.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Leviathan",
+    "image": "https://vancerainscom.files.wordpress.com/2018/03/leviathan_.jpg?w=1381&h=578&crop=1"
+  },
+  {
+    "id": 11,
+    "name": "Pinhead",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/04/HORROR-MONSTERS-Pinhead.jpg?q=50&fit=crop&w=737&h=387&dpr=1.5"
+  },
+  {
+    "id": 12,
+    "name": "Xenomorph",
+    "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Xenomorph-in-Alien-Covenant.jpg?q=50&fit=crop&w=737&h=376&dpr=1.5"
+  }
+]
   
